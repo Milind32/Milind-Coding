@@ -1,0 +1,9 @@
+body{color: lime;
+  background-image: linear-gradient(to top,red,blue)
+}
+h1{background-image:linear-gradient(red, yellow);font-size: 30px
+}
+h1{
+  font-family: 'Brush Script MT',
+  cursive;
+  }
